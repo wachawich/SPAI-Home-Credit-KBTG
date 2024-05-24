@@ -3,11 +3,11 @@ Super AI engineer ss4 level2
 
 ### Contributor
 
-402882-วชิรวิทย์ (me)
-402569-เลิศบุญ
-405988-ปภาพินท์
-403104-ชินาธิป
-401658-ปฐวี
+402882-วชิรวิทย์ (me) \n
+402569-เลิศบุญ \n
+405988-ปภาพินท์ \n
+403104-ชินาธิป \n
+401658-ปฐวี \n
 
 ## Part 1 LGBM is the ML we should first and the score is 0.79
 
