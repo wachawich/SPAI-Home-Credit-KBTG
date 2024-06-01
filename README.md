@@ -52,7 +52,7 @@ Super AI engineer ss4 level2
 |LGBM            | Using A, P, L and All file        | 0.79132 | 0.83188 |
 |LGBM            | feature important from auto gluon | 0.67751 | 0.73527 |
 
-จากการทดลองนี้พบว่า
-LGBM จะเก่งกับ feature น้อยๆที่ select และผ่านการทำ feature engineering แล้ว ถ้า feature เยอะเกินไป จะไม่เก่ง
-AutoGluon จะเก่งกับ feature เยอะๆ เพราะจะมีตัวเลือกเยอะในการหา feature ของมันเอง  ฟีเจอร์น้อยๆจะไม่ค่อยเก่ง
-LLM ตอนแรกจะทำเป็น pipeline สำหรับการนำ feature improtant จาก autogluon มาใช้ร่วมกับ LLM แต่พอส่งคะแนนไป ผลก็ค่อนข้างแย่ เลยไม่ได้ไปต่อสำหรับ LLM
+From this experiment it was found<br>
+LGBM is good at a few features that are selected and done through feature engineering. If there are too many features, it will not be good. <br>
+AutoGluon is good with a lot of features because it has a lot of options to find its own features. It's not as good at a few features. <br>
+LLM was initially created as a pipeline for using feature improtant from Autogluon together with LLM, but when the scores were sent The results were quite bad. So I didn't continue for the LLM.
