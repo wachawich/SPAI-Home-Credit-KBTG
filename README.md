@@ -53,6 +53,6 @@ Super AI engineer ss4 level2
 |LGBM            | feature important from auto gluon | 0.67751 | 0.73527 |
 
 From this experiment it was found<br>
-LGBM is good at a few features that are selected and done through feature engineering. If there are too many features, it will not be good. <br>
-AutoGluon is good with a lot of features because it has a lot of options to find its own features. It's not as good at a few features. <br>
-LLM was initially created as a pipeline for using feature improtant from Autogluon together with LLM, but when the scores were sent The results were quite bad. So I didn't continue for the LLM.
+`LGBM` is good at a few features that are selected and done through feature engineering. If there are too many features, it will not be good. <br>
+`AutoGluon` is good with a lot of features because it has a lot of options to find its own features. It's not as good at a few features. <br>
+`LLM` was initially created as a pipeline for using feature improtant from Autogluon together with LLM, but when the scores were sent The results were quite bad. So I didn't continue for the LLM.
